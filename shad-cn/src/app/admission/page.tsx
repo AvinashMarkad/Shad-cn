@@ -43,6 +43,14 @@ export default function admission() {
               className="w-full px-4 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-black"
             />
           </div>
+          <div className="text-center">
+            <button
+              type="submit"
+              className="bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-black"
+            >
+              Submit
+            </button>
+          </div>
         </form>
       </div>
     </div>
