@@ -1,6 +1,9 @@
+
 export default function admission() {
   return (
+
     <div className="min-h-screen flex items-center justify-center bg-black">
+
       <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
         <h2 className="text-2xl font-semibold text-center text-black mb-4">Postgraduate Admission Form</h2>
         <form>
@@ -51,6 +54,7 @@ export default function admission() {
               Submit
             </button>
           </div>
+
         </form>
       </div>
     </div>
